@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cairugaJ
-- 👀 I’m interested in learning, mathematics and technology
+- 👀 I’m interested in mathematics and technology
 - 🌱 I’m currently learning Java and Python !
 - 📫 How to reach me regocairugaj@gmail.com :)
 
