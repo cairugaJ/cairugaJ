@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @cairugaJ
+- I'm a Data Science and Artificial Intelligence student at PUCRS, Brazil
 - 👀 I’m interested in mathematics and technology
 - 🌱 I’m currently learning R and Python !
 - 📫 How to reach me regocairugaj@gmail.com :)
